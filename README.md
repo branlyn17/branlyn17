@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Branlyn Mamani Oyardo 👋
 
-<!--
-**branlyn17/branlyn17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & Mobile Developer** from Bolivia 🇧🇴
 
-Here are some ideas to get you started:
+I build web systems and mobile apps. My experience includes point-of-sale systems, task and goal management modules, and solutions for credit brokerage companies in Italy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Web:** PHP · Laravel · Livewire · Angular · NestJS · TypeScript
+
+**Mobile:** Kotlin · Jetpack Compose · Flutter
+
+**Databases:** MySQL · PostgreSQL
+
+**Tools:** Git · GitHub
+
+## 📫 Contact
+
+branlyn777@gmail.com
