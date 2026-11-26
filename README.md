@@ -1,10 +1,10 @@
-# Hi, I'm Branlyn Mamani Oyardo 👋
+# Hi, I'm Branlyn Mamani Oyardo
 
 **Web & Mobile Developer** from Bolivia 🇧🇴
 
 I build web systems and mobile apps. My experience includes point-of-sale systems, task and goal management modules, and solutions for credit brokerage companies in Italy.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Web:** PHP · Laravel · Livewire · Angular · NestJS · TypeScript
 
@@ -14,6 +14,6 @@ I build web systems and mobile apps. My experience includes point-of-sale system
 
 **Tools:** Git · GitHub
 
-## 📫 Contact
+## Contact
 
 branlyn777@gmail.com
